@@ -1,0 +1,5 @@
+risk_driver,control,recommended_action,owner,priority
+business_criticality,Human Approval Gate,Restrict autonomous decisions and require human approval for high-impact outcomes.,Business Owner,Critical
+human_oversight,Human-in-the-Loop Control,Introduce mandatory human review for sensitive or high-impact decisions.,AI Governance,High
+bias_risk,Fairness Assessment,Perform bias testing across relevant demographic or business segments.,Responsible AI,High
+automation_level,Automation Boundary,Limit autonomous decision authority and introduce escalation thresholds.,Business Owner,High

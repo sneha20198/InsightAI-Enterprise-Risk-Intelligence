@@ -1,0 +1,301 @@
+use_case_id,use_case_name,industry,business_function,data_sensitivity,automation_level,human_oversight,regulatory_exposure,model_transparency,business_criticality,error_rate,bias_risk,risk_score,risk_level
+AI0001,Product Recommendation AI,E-commerce,Marketing,1,3,3,1,1,3,0.095,3,182.125,High
+AI0002,Customer Churn Prediction,Telecom,Customer Analytics,3,1,3,2,1,2,0.147,2,186.025,High
+AI0003,Insurance Claim Assessment,Insurance,Claims,2,1,1,2,2,1,0.092,1,131.9,Medium
+AI0004,Credit Risk Assessment,Banking,Risk,3,2,2,3,2,3,0.083,1,211.225,High
+AI0005,Fraud Detection AI,Banking,Fraud,1,3,3,1,1,3,0.013,1,155.975,Medium
+AI0006,Invoice Processing AI,Finance,Finance Operations,2,2,1,2,1,2,0.14,3,170.5,High
+AI0007,Product Recommendation AI,E-commerce,Marketing,1,3,3,2,1,2,0.136,2,175.2,High
+AI0008,Insurance Claim Assessment,Insurance,Claims,2,2,2,1,3,2,0.157,2,176.775,High
+AI0009,Credit Risk Assessment,Banking,Risk,2,2,3,3,2,3,0.109,2,218.175,High
+AI0010,Employee Performance Prediction,Human Resources,Performance,1,1,2,3,1,2,0.193,1,154.475,Medium
+AI0011,Predictive Maintenance AI,Manufacturing,Operations,1,3,1,1,1,3,0.09,1,141.75,Medium
+AI0012,Demand Forecasting AI,Retail,Supply Chain,3,3,3,1,3,3,0.157,1,216.775,High
+AI0013,Credit Risk Assessment,Banking,Risk,3,2,1,3,1,2,0.028,3,192.1,High
+AI0014,Medical Diagnosis AI,Healthcare,Diagnosis,3,2,3,3,1,3,0.033,2,217.475,High
+AI0015,Fraud Detection AI,Banking,Fraud,1,1,2,3,3,2,0.104,1,167.8,High
+AI0016,Quality Inspection AI,Manufacturing,Quality Control,3,2,2,1,3,3,0.18,1,198.5,High
+AI0017,Supply Chain Risk Prediction,Logistics,Supply Chain,1,2,1,3,3,1,0.113,1,153.475,Medium
+AI0018,Customer Support Chatbot,Retail,Customer Service,1,3,3,3,2,2,0.129,2,199.675,High
+AI0019,Insurance Claim Assessment,Insurance,Claims,2,2,3,2,3,1,0.07,1,170.25,High
+AI0020,AI Resume Screening,Human Resources,Recruitment,1,3,2,1,1,1,0.068,2,130.1,Medium
+AI0021,Employee Performance Prediction,Human Resources,Performance,3,1,2,1,1,3,0.061,3,179.575,High
+AI0022,Predictive Maintenance AI,Manufacturing,Operations,1,2,1,2,2,3,0.104,1,157.8,Medium
+AI0023,Medical Diagnosis AI,Healthcare,Diagnosis,1,1,3,1,2,2,0.088,3,156.6,Medium
+AI0024,Medical Diagnosis AI,Healthcare,Diagnosis,1,1,3,2,2,1,0.103,2,147.725,Medium
+AI0025,Customer Support Chatbot,Retail,Customer Service,3,3,3,1,3,2,0.08,2,206.0,High
+AI0026,Insurance Claim Assessment,Insurance,Claims,2,3,3,1,1,3,0.045,1,173.375,High
+AI0027,Fraud Detection AI,Banking,Fraud,3,3,2,3,3,3,0.076,3,250.7,High
+AI0028,Supply Chain Risk Prediction,Logistics,Supply Chain,1,1,3,2,1,3,0.075,1,155.625,Medium
+AI0029,Marketing Personalization AI,E-commerce,Marketing,3,3,2,2,3,3,0.135,2,230.125,High
+AI0030,Patient Risk Prediction,Healthcare,Patient Care,1,1,2,1,2,1,0.181,3,138.575,Medium
+AI0031,Predictive Maintenance AI,Manufacturing,Operations,1,3,3,3,2,1,0.132,3,194.9,High
+AI0032,Pricing Optimization AI,Retail,Pricing,2,2,3,2,1,3,0.195,2,199.625,High
+AI0033,Invoice Processing AI,Finance,Finance Operations,2,2,2,3,1,1,0.043,1,153.225,Medium
+AI0034,Invoice Processing AI,Finance,Finance Operations,1,3,3,1,1,3,0.08,3,181.0,High
+AI0035,Invoice Processing AI,Finance,Finance Operations,2,2,2,1,3,2,0.182,3,188.65,High
+AI0036,Loan Approval AI,Banking,Credit,1,2,1,3,1,1,0.054,3,149.05,Medium
+AI0037,Customer Support Chatbot,Retail,Customer Service,3,1,1,2,1,2,0.184,3,178.8,High
+AI0038,Predictive Maintenance AI,Manufacturing,Operations,1,1,1,2,1,3,0.193,1,144.475,Medium
+AI0039,Supply Chain Risk Prediction,Logistics,Supply Chain,3,1,1,3,1,3,0.042,1,178.15,High
+AI0040,Credit Risk Assessment,Banking,Risk,3,2,2,3,2,2,0.127,2,209.525,High
+AI0041,Loan Approval AI,Banking,Credit,3,3,2,2,2,1,0.171,1,182.825,High
+AI0042,Customer Churn Prediction,Telecom,Customer Analytics,2,3,1,2,3,2,0.164,1,182.3,High
+AI0043,Cyber Threat Detection AI,Technology,Cybersecurity,2,3,1,1,1,2,0.161,3,167.075,High
+AI0044,Quality Inspection AI,Manufacturing,Quality Control,2,2,3,3,2,3,0.098,3,227.35,High
+AI0045,Pricing Optimization AI,Retail,Pricing,2,2,3,2,3,1,0.109,1,173.175,High
+AI0046,Demand Forecasting AI,Retail,Supply Chain,1,3,2,1,2,3,0.143,1,165.725,High
+AI0047,Marketing Personalization AI,E-commerce,Marketing,2,2,3,1,3,3,0.093,3,206.975,High
+AI0048,Medical Diagnosis AI,Healthcare,Diagnosis,2,1,2,3,3,1,0.141,1,170.575,High
+AI0049,AI Resume Screening,Human Resources,Recruitment,3,2,2,2,1,1,0.063,1,154.725,Medium
+AI0050,Product Recommendation AI,E-commerce,Marketing,3,1,2,1,3,3,0.057,3,199.275,High
+AI0051,Medical Diagnosis AI,Healthcare,Diagnosis,2,1,1,2,1,3,0.018,2,156.35,Medium
+AI0052,Supply Chain Risk Prediction,Logistics,Supply Chain,1,2,2,1,3,1,0.098,1,132.35,Medium
+AI0053,Credit Risk Assessment,Banking,Risk,2,1,2,3,2,2,0.187,1,179.025,High
+AI0054,Medical Diagnosis AI,Healthcare,Diagnosis,1,3,2,1,3,2,0.119,1,158.925,Medium
+AI0055,AI Resume Screening,Human Resources,Recruitment,1,3,3,1,3,1,0.193,2,169.475,High
+AI0056,Customer Churn Prediction,Telecom,Customer Analytics,1,1,3,2,2,1,0.028,3,152.1,Medium
+AI0057,Pricing Optimization AI,Retail,Pricing,2,1,2,2,2,2,0.165,1,162.375,Medium
+AI0058,Product Recommendation AI,E-commerce,Marketing,2,1,2,1,3,1,0.017,1,131.275,Medium
+AI0059,Customer Support Chatbot,Retail,Customer Service,2,1,1,3,1,3,0.088,2,176.6,High
+AI0060,Pricing Optimization AI,Retail,Pricing,3,3,2,1,1,3,0.153,1,186.475,High
+AI0061,Fraud Detection AI,Banking,Fraud,1,2,1,1,2,1,0.071,3,130.325,Medium
+AI0062,Legal Document Analysis AI,Legal,Legal Operations,1,1,1,3,1,3,0.192,3,179.4,High
+AI0063,Supply Chain Risk Prediction,Logistics,Supply Chain,3,2,3,1,1,3,0.124,3,204.3,High
+AI0064,Customer Support Chatbot,Retail,Customer Service,1,3,1,3,1,1,0.104,3,162.8,Medium
+AI0065,Invoice Processing AI,Finance,Finance Operations,3,2,1,3,3,1,0.077,2,190.775,High
+AI0066,Quality Inspection AI,Manufacturing,Quality Control,1,2,2,1,1,2,0.026,1,121.95,Medium
+AI0067,Employee Performance Prediction,Human Resources,Performance,2,1,2,3,2,2,0.025,1,166.875,High
+AI0068,Insurance Claim Assessment,Insurance,Claims,3,1,1,2,1,3,0.182,1,173.65,High
+AI0069,Customer Support Chatbot,Retail,Customer Service,2,3,3,1,2,3,0.091,2,196.825,High
+AI0070,Legal Document Analysis AI,Legal,Legal Operations,3,2,3,1,1,2,0.099,2,177.425,High
+AI0071,Supply Chain Risk Prediction,Logistics,Supply Chain,1,3,1,3,1,3,0.121,2,184.075,High
+AI0072,Pricing Optimization AI,Retail,Pricing,1,1,2,1,2,2,0.012,1,120.9,Medium
+AI0073,Quality Inspection AI,Manufacturing,Quality Control,1,2,1,3,1,3,0.142,1,165.65,High
+AI0074,Marketing Personalization AI,E-commerce,Marketing,3,1,1,2,3,3,0.199,2,204.925,High
+AI0075,Fraud Detection AI,Banking,Fraud,3,1,3,2,2,1,0.063,2,174.725,High
+AI0076,Employee Performance Prediction,Human Resources,Performance,2,2,1,1,3,2,0.016,1,146.2,Medium
+AI0077,AI Resume Screening,Human Resources,Recruitment,1,1,1,1,2,3,0.166,2,147.45,Medium
+AI0078,Legal Document Analysis AI,Legal,Legal Operations,1,3,1,2,2,2,0.175,1,158.125,Medium
+AI0079,Medical Diagnosis AI,Healthcare,Diagnosis,3,1,2,1,2,3,0.039,1,167.925,High
+AI0080,Pricing Optimization AI,Retail,Pricing,1,1,2,1,3,3,0.062,3,169.65,High
+AI0081,Insurance Claim Assessment,Insurance,Claims,1,1,3,1,2,3,0.116,1,153.7,Medium
+AI0082,Medical Diagnosis AI,Healthcare,Diagnosis,2,2,3,1,1,2,0.049,1,148.675,Medium
+AI0083,Legal Document Analysis AI,Legal,Legal Operations,1,1,2,1,1,2,0.078,3,135.85,Medium
+AI0084,Loan Approval AI,Banking,Credit,2,2,3,3,2,1,0.115,1,178.625,High
+AI0085,Pricing Optimization AI,Retail,Pricing,3,3,3,3,1,1,0.131,3,214.825,High
+AI0086,Legal Document Analysis AI,Legal,Legal Operations,3,2,2,2,2,2,0.131,3,204.825,High
+AI0087,Legal Document Analysis AI,Legal,Legal Operations,3,2,1,2,1,3,0.085,3,196.375,High
+AI0088,Credit Risk Assessment,Banking,Risk,3,1,1,1,2,1,0.104,1,132.8,Medium
+AI0089,Loan Approval AI,Banking,Credit,2,1,2,1,2,3,0.12,3,179.0,High
+AI0090,Legal Document Analysis AI,Legal,Legal Operations,3,1,3,3,3,3,0.036,1,217.7,High
+AI0091,Fraud Detection AI,Banking,Fraud,3,3,1,2,1,2,0.053,1,168.975,High
+AI0092,Medical Diagnosis AI,Healthcare,Diagnosis,2,2,1,2,1,2,0.033,1,142.475,Medium
+AI0093,Demand Forecasting AI,Retail,Supply Chain,2,2,2,1,2,2,0.141,1,155.575,Medium
+AI0094,Quality Inspection AI,Manufacturing,Quality Control,1,2,3,2,3,3,0.082,1,186.15,High
+AI0095,Customer Support Chatbot,Retail,Customer Service,1,1,3,1,3,3,0.08,2,171.0,High
+AI0096,Invoice Processing AI,Finance,Finance Operations,2,3,2,2,1,2,0.017,3,181.275,High
+AI0097,Product Recommendation AI,E-commerce,Marketing,3,3,3,2,3,3,0.016,2,231.2,High
+AI0098,Insurance Claim Assessment,Insurance,Claims,3,3,3,1,3,1,0.045,3,198.375,High
+AI0099,Pricing Optimization AI,Retail,Pricing,3,2,2,2,1,1,0.075,1,155.625,Medium
+AI0100,Customer Support Chatbot,Retail,Customer Service,2,3,1,1,2,3,0.121,2,179.075,High
+AI0101,Loan Approval AI,Banking,Credit,3,1,3,2,1,1,0.079,2,165.925,High
+AI0102,Loan Approval AI,Banking,Credit,3,3,1,2,1,1,0.055,2,164.125,Medium
+AI0103,Insurance Claim Assessment,Insurance,Claims,2,3,2,3,2,2,0.163,3,217.225,High
+AI0104,Predictive Maintenance AI,Manufacturing,Operations,3,3,3,3,1,3,0.18,3,248.5,High
+AI0105,Customer Support Chatbot,Retail,Customer Service,3,2,2,1,2,2,0.137,1,170.275,High
+AI0106,Loan Approval AI,Banking,Credit,3,3,2,3,1,1,0.046,2,188.45,High
+AI0107,Customer Support Chatbot,Retail,Customer Service,3,1,1,3,1,2,0.156,2,181.7,High
+AI0108,Medical Diagnosis AI,Healthcare,Diagnosis,2,3,3,1,3,3,0.02,2,201.5,High
+AI0109,Credit Risk Assessment,Banking,Risk,1,3,2,2,1,2,0.027,3,167.025,High
+AI0110,Medical Diagnosis AI,Healthcare,Diagnosis,1,1,1,3,3,2,0.088,2,166.6,High
+AI0111,Pricing Optimization AI,Retail,Pricing,1,2,2,2,1,3,0.188,3,184.1,High
+AI0112,Fraud Detection AI,Banking,Fraud,1,2,1,3,1,1,0.048,2,138.6,Medium
+AI0113,Fraud Detection AI,Banking,Fraud,1,1,1,3,3,2,0.109,1,158.175,Medium
+AI0114,Cyber Threat Detection AI,Technology,Cybersecurity,2,1,2,3,2,3,0.129,1,189.675,High
+AI0115,Quality Inspection AI,Manufacturing,Quality Control,1,1,1,1,3,3,0.111,1,143.325,Medium
+AI0116,Employee Performance Prediction,Human Resources,Performance,3,3,3,2,2,3,0.129,2,229.675,High
+AI0117,Supply Chain Risk Prediction,Logistics,Supply Chain,3,3,1,1,2,3,0.119,1,183.925,High
+AI0118,Insurance Claim Assessment,Insurance,Claims,1,1,1,1,3,3,0.037,2,147.775,Medium
+AI0119,Loan Approval AI,Banking,Credit,2,1,3,2,1,2,0.166,3,182.45,High
+AI0120,Quality Inspection AI,Manufacturing,Quality Control,1,3,1,1,1,3,0.088,1,141.6,Medium
+AI0121,Loan Approval AI,Banking,Credit,3,3,3,3,2,3,0.124,3,254.3,High
+AI0122,Credit Risk Assessment,Banking,Risk,2,2,3,3,2,2,0.127,2,204.525,High
+AI0123,Cyber Threat Detection AI,Technology,Cybersecurity,2,2,1,1,3,3,0.187,1,174.025,High
+AI0124,Medical Diagnosis AI,Healthcare,Diagnosis,3,2,1,3,2,1,0.091,1,171.825,High
+AI0125,Invoice Processing AI,Finance,Finance Operations,1,2,3,3,1,2,0.055,2,174.125,High
+AI0126,Invoice Processing AI,Finance,Finance Operations,2,3,1,1,3,2,0.109,3,183.175,High
+AI0127,Quality Inspection AI,Manufacturing,Quality Control,1,1,1,2,1,1,0.125,3,129.375,Medium
+AI0128,Supply Chain Risk Prediction,Logistics,Supply Chain,1,2,3,2,2,3,0.076,2,185.7,High
+AI0129,Pricing Optimization AI,Retail,Pricing,3,3,3,3,2,1,0.105,2,212.875,High
+AI0130,AI Resume Screening,Human Resources,Recruitment,1,1,3,3,2,2,0.012,1,160.9,Medium
+AI0131,Pricing Optimization AI,Retail,Pricing,3,1,1,1,2,2,0.026,1,141.95,Medium
+AI0132,Employee Performance Prediction,Human Resources,Performance,1,3,1,1,2,3,0.091,3,171.825,High
+AI0133,Pricing Optimization AI,Retail,Pricing,1,1,2,3,2,1,0.157,3,166.775,High
+AI0134,Marketing Personalization AI,E-commerce,Marketing,2,2,1,2,2,2,0.155,1,161.625,Medium
+AI0135,Employee Performance Prediction,Human Resources,Performance,1,3,3,3,2,2,0.181,2,203.575,High
+AI0136,AI Resume Screening,Human Resources,Recruitment,3,3,2,3,1,1,0.115,3,203.625,High
+AI0137,Employee Performance Prediction,Human Resources,Performance,2,1,3,1,3,3,0.134,3,200.05,High
+AI0138,Employee Performance Prediction,Human Resources,Performance,2,3,2,2,3,1,0.037,2,177.775,High
+AI0139,Patient Risk Prediction,Healthcare,Patient Care,2,3,2,3,1,3,0.171,1,202.825,High
+AI0140,Legal Document Analysis AI,Legal,Legal Operations,1,2,2,1,3,1,0.075,2,140.625,Medium
+AI0141,Loan Approval AI,Banking,Credit,3,3,3,1,1,2,0.157,1,181.775,High
+AI0142,Loan Approval AI,Banking,Credit,1,3,2,2,1,2,0.117,3,173.775,High
+AI0143,Invoice Processing AI,Finance,Finance Operations,3,1,2,3,1,2,0.151,2,191.325,High
+AI0144,Cyber Threat Detection AI,Technology,Cybersecurity,1,3,1,2,2,3,0.09,2,176.75,High
+AI0145,Cyber Threat Detection AI,Technology,Cybersecurity,2,3,1,3,2,2,0.111,2,193.325,High
+AI0146,Customer Support Chatbot,Retail,Customer Service,1,2,2,1,1,1,0.105,3,132.875,Medium
+AI0147,Credit Risk Assessment,Banking,Risk,2,1,3,1,3,2,0.149,2,176.175,High
+AI0148,Demand Forecasting AI,Retail,Supply Chain,1,1,1,3,2,1,0.169,1,137.675,Medium
+AI0149,Invoice Processing AI,Finance,Finance Operations,2,2,3,1,3,1,0.125,2,169.375,High
+AI0150,Customer Churn Prediction,Telecom,Customer Analytics,3,1,3,3,3,2,0.1,3,227.5,High
+AI0151,Medical Diagnosis AI,Healthcare,Diagnosis,1,2,3,3,3,3,0.171,3,227.825,High
+AI0152,Cyber Threat Detection AI,Technology,Cybersecurity,3,2,1,2,2,1,0.075,1,155.625,Medium
+AI0153,AI Resume Screening,Human Resources,Recruitment,1,1,3,2,1,3,0.024,2,161.8,Medium
+AI0154,Medical Diagnosis AI,Healthcare,Diagnosis,3,2,2,2,3,1,0.027,3,192.025,High
+AI0155,Pricing Optimization AI,Retail,Pricing,1,1,2,1,3,1,0.045,2,128.375,Medium
+AI0156,Patient Risk Prediction,Healthcare,Patient Care,3,3,1,1,3,1,0.142,2,175.65,High
+AI0157,Employee Performance Prediction,Human Resources,Performance,1,2,1,3,3,2,0.02,2,171.5,High
+AI0158,Quality Inspection AI,Manufacturing,Quality Control,2,3,1,3,2,1,0.1,3,187.5,High
+AI0159,Invoice Processing AI,Finance,Finance Operations,3,1,3,1,3,2,0.09,1,176.75,High
+AI0160,Marketing Personalization AI,E-commerce,Marketing,3,2,3,3,2,3,0.167,1,227.525,High
+AI0161,Invoice Processing AI,Finance,Finance Operations,3,3,1,2,3,1,0.111,2,188.325,High
+AI0162,Demand Forecasting AI,Retail,Supply Chain,3,3,1,1,2,1,0.15,1,156.25,Medium
+AI0163,Patient Risk Prediction,Healthcare,Patient Care,1,2,2,2,3,3,0.175,2,193.125,High
+AI0164,Cyber Threat Detection AI,Technology,Cybersecurity,1,2,3,3,3,2,0.077,2,195.775,High
+AI0165,Pricing Optimization AI,Retail,Pricing,1,2,1,1,3,1,0.156,1,126.7,Medium
+AI0166,Product Recommendation AI,E-commerce,Marketing,1,1,2,1,3,1,0.077,2,130.775,Medium
+AI0167,Marketing Personalization AI,E-commerce,Marketing,2,2,1,1,1,1,0.198,1,124.85,Medium
+AI0168,Quality Inspection AI,Manufacturing,Quality Control,1,1,3,2,1,1,0.059,2,134.425,Medium
+AI0169,Product Recommendation AI,E-commerce,Marketing,3,2,3,2,1,2,0.042,3,198.15,High
+AI0170,Employee Performance Prediction,Human Resources,Performance,1,3,2,1,3,1,0.033,3,157.475,Medium
+AI0171,Loan Approval AI,Banking,Credit,1,2,1,1,2,3,0.167,1,147.525,Medium
+AI0172,Medical Diagnosis AI,Healthcare,Diagnosis,2,3,3,1,1,3,0.123,1,179.225,High
+AI0173,Credit Risk Assessment,Banking,Risk,3,2,2,2,1,3,0.165,2,202.375,High
+AI0174,Cyber Threat Detection AI,Technology,Cybersecurity,1,3,1,1,2,1,0.027,1,117.025,Medium
+AI0175,Fraud Detection AI,Banking,Fraud,3,1,1,3,1,2,0.174,1,173.05,High
+AI0176,Quality Inspection AI,Manufacturing,Quality Control,1,1,3,3,2,3,0.011,3,195.825,High
+AI0177,Medical Diagnosis AI,Healthcare,Diagnosis,2,2,2,1,1,1,0.198,2,144.85,Medium
+AI0178,Employee Performance Prediction,Human Resources,Performance,1,2,1,3,2,3,0.076,2,180.7,High
+AI0179,Employee Performance Prediction,Human Resources,Performance,3,1,1,1,2,3,0.175,1,168.125,High
+AI0180,Patient Risk Prediction,Healthcare,Patient Care,1,1,3,1,1,1,0.139,3,135.425,Medium
+AI0181,Insurance Claim Assessment,Insurance,Claims,3,1,3,1,2,1,0.016,3,166.2,High
+AI0182,Credit Risk Assessment,Banking,Risk,2,3,1,2,3,3,0.01,2,195.75,High
+AI0183,Invoice Processing AI,Finance,Finance Operations,1,1,3,2,1,2,0.072,1,140.4,Medium
+AI0184,Pricing Optimization AI,Retail,Pricing,3,2,1,3,2,3,0.155,2,216.625,High
+AI0185,Predictive Maintenance AI,Manufacturing,Operations,2,3,3,2,1,1,0.16,2,177.0,High
+AI0186,Customer Support Chatbot,Retail,Customer Service,3,1,2,1,2,2,0.076,2,165.7,High
+AI0187,Marketing Personalization AI,E-commerce,Marketing,2,2,3,1,3,3,0.123,3,209.225,High
+AI0188,Customer Churn Prediction,Telecom,Customer Analytics,1,2,3,3,3,3,0.14,2,215.5,High
+AI0189,Loan Approval AI,Banking,Credit,2,2,1,1,3,1,0.172,3,162.9,Medium
+AI0190,Customer Churn Prediction,Telecom,Customer Analytics,2,3,2,2,3,3,0.175,2,218.125,High
+AI0191,Demand Forecasting AI,Retail,Supply Chain,1,1,3,1,3,2,0.154,1,151.55,Medium
+AI0192,Fraud Detection AI,Banking,Fraud,3,1,2,2,3,2,0.05,1,178.75,High
+AI0193,Demand Forecasting AI,Retail,Supply Chain,2,3,3,2,1,1,0.027,3,177.025,High
+AI0194,Invoice Processing AI,Finance,Finance Operations,2,3,3,1,1,2,0.127,2,174.525,High
+AI0195,Quality Inspection AI,Manufacturing,Quality Control,1,2,2,3,1,2,0.14,1,160.5,Medium
+AI0196,Insurance Claim Assessment,Insurance,Claims,1,3,2,2,1,1,0.122,3,159.15,Medium
+AI0197,Cyber Threat Detection AI,Technology,Cybersecurity,1,1,2,2,2,2,0.195,2,159.625,Medium
+AI0198,Customer Churn Prediction,Telecom,Customer Analytics,1,1,1,2,1,3,0.101,1,137.575,Medium
+AI0199,Pricing Optimization AI,Retail,Pricing,1,2,3,2,2,1,0.116,2,158.7,Medium
+AI0200,AI Resume Screening,Human Resources,Recruitment,2,1,1,1,1,2,0.016,2,126.2,Medium
+AI0201,Product Recommendation AI,E-commerce,Marketing,2,2,3,2,2,2,0.162,2,192.15,High
+AI0202,Credit Risk Assessment,Banking,Risk,3,1,3,1,3,3,0.016,2,196.2,High
+AI0203,Predictive Maintenance AI,Manufacturing,Operations,3,3,1,2,2,2,0.159,3,206.925,High
+AI0204,Product Recommendation AI,E-commerce,Marketing,3,2,2,2,2,3,0.132,1,199.9,High
+AI0205,Credit Risk Assessment,Banking,Risk,2,3,2,2,3,1,0.101,3,192.575,High
+AI0206,Legal Document Analysis AI,Legal,Legal Operations,3,2,1,1,3,1,0.135,3,175.125,High
+AI0207,Demand Forecasting AI,Retail,Supply Chain,2,2,2,3,2,1,0.199,1,174.925,High
+AI0208,Fraud Detection AI,Banking,Fraud,2,3,3,1,1,2,0.016,1,156.2,Medium
+AI0209,Product Recommendation AI,E-commerce,Marketing,1,2,1,3,2,1,0.171,1,147.825,Medium
+AI0210,Customer Support Chatbot,Retail,Customer Service,2,2,1,3,1,2,0.148,2,176.1,High
+AI0211,Quality Inspection AI,Manufacturing,Quality Control,2,2,3,2,3,3,0.064,1,199.8,High
+AI0212,Demand Forecasting AI,Retail,Supply Chain,3,1,2,1,3,1,0.035,2,157.625,Medium
+AI0213,Credit Risk Assessment,Banking,Risk,2,2,2,3,1,1,0.023,1,151.725,Medium
+AI0214,Quality Inspection AI,Manufacturing,Quality Control,2,3,1,2,3,2,0.134,1,180.05,High
+AI0215,Loan Approval AI,Banking,Credit,3,1,1,3,1,1,0.055,3,169.125,High
+AI0216,Customer Churn Prediction,Telecom,Customer Analytics,2,3,2,2,2,1,0.074,2,170.55,High
+AI0217,Predictive Maintenance AI,Manufacturing,Operations,1,1,3,1,1,2,0.042,1,123.15,Medium
+AI0218,Customer Churn Prediction,Telecom,Customer Analytics,1,3,1,1,1,1,0.144,3,135.8,Medium
+AI0219,Quality Inspection AI,Manufacturing,Quality Control,2,3,1,2,2,2,0.033,1,162.475,Medium
+AI0220,Supply Chain Risk Prediction,Logistics,Supply Chain,2,1,1,3,3,2,0.044,3,188.3,High
+AI0221,Medical Diagnosis AI,Healthcare,Diagnosis,1,1,3,2,2,1,0.101,3,157.575,Medium
+AI0222,Customer Churn Prediction,Telecom,Customer Analytics,2,2,1,2,1,1,0.12,3,154.0,Medium
+AI0223,Customer Churn Prediction,Telecom,Customer Analytics,2,3,2,3,2,1,0.037,2,182.775,High
+AI0224,Credit Risk Assessment,Banking,Risk,3,2,1,1,3,1,0.094,1,152.05,Medium
+AI0225,Quality Inspection AI,Manufacturing,Quality Control,2,3,2,1,3,3,0.189,2,204.175,High
+AI0226,Marketing Personalization AI,E-commerce,Marketing,2,1,2,3,1,3,0.187,2,194.025,High
+AI0227,Customer Support Chatbot,Retail,Customer Service,1,1,3,3,2,1,0.137,1,155.275,Medium
+AI0228,Loan Approval AI,Banking,Credit,2,2,3,1,1,1,0.199,1,144.925,Medium
+AI0229,Predictive Maintenance AI,Manufacturing,Operations,1,1,3,1,3,2,0.087,2,156.525,Medium
+AI0230,Customer Support Chatbot,Retail,Customer Service,2,3,2,2,2,1,0.162,3,187.15,High
+AI0231,Cyber Threat Detection AI,Technology,Cybersecurity,3,1,2,2,3,1,0.072,1,165.4,High
+AI0232,Demand Forecasting AI,Retail,Supply Chain,2,3,3,1,3,1,0.095,1,167.125,High
+AI0233,Pricing Optimization AI,Retail,Pricing,3,2,2,3,3,2,0.132,2,219.9,High
+AI0234,Invoice Processing AI,Finance,Finance Operations,1,3,1,2,2,2,0.184,1,158.8,Medium
+AI0235,Demand Forecasting AI,Retail,Supply Chain,1,2,1,3,3,3,0.155,2,196.625,High
+AI0236,Invoice Processing AI,Finance,Finance Operations,2,3,3,1,1,3,0.092,3,196.9,High
+AI0237,Quality Inspection AI,Manufacturing,Quality Control,1,3,3,3,1,1,0.077,2,170.775,High
+AI0238,Invoice Processing AI,Finance,Finance Operations,1,1,2,3,1,3,0.111,2,173.325,High
+AI0239,Customer Support Chatbot,Retail,Customer Service,2,2,2,1,1,2,0.033,3,157.475,Medium
+AI0240,Product Recommendation AI,E-commerce,Marketing,3,2,3,1,3,3,0.066,1,199.95,High
+AI0241,Credit Risk Assessment,Banking,Risk,1,2,2,3,2,1,0.081,1,151.075,Medium
+AI0242,Credit Risk Assessment,Banking,Risk,3,3,1,3,2,2,0.108,1,198.1,High
+AI0243,Predictive Maintenance AI,Manufacturing,Operations,3,2,2,1,1,2,0.181,1,163.575,Medium
+AI0244,Medical Diagnosis AI,Healthcare,Diagnosis,2,3,3,2,1,2,0.156,2,191.7,High
+AI0245,AI Resume Screening,Human Resources,Recruitment,3,2,1,3,1,3,0.175,1,198.125,High
+AI0246,Pricing Optimization AI,Retail,Pricing,2,1,3,3,3,3,0.054,2,214.05,High
+AI0247,Cyber Threat Detection AI,Technology,Cybersecurity,1,1,2,1,2,3,0.123,2,154.225,Medium
+AI0248,Fraud Detection AI,Banking,Fraud,2,2,1,3,1,1,0.013,2,150.975,Medium
+AI0249,Legal Document Analysis AI,Legal,Legal Operations,2,2,2,3,1,2,0.06,1,169.5,High
+AI0250,AI Resume Screening,Human Resources,Recruitment,3,1,1,3,2,1,0.127,1,164.525,Medium
+AI0251,Pricing Optimization AI,Retail,Pricing,2,1,3,1,2,2,0.139,1,155.425,Medium
+AI0252,Fraud Detection AI,Banking,Fraud,2,2,2,3,2,2,0.116,2,193.7,High
+AI0253,Supply Chain Risk Prediction,Logistics,Supply Chain,2,2,1,1,1,3,0.153,3,171.475,High
+AI0254,Patient Risk Prediction,Healthcare,Patient Care,2,2,2,1,3,1,0.067,3,165.025,High
+AI0255,Patient Risk Prediction,Healthcare,Patient Care,2,1,3,3,2,1,0.15,1,171.25,High
+AI0256,Supply Chain Risk Prediction,Logistics,Supply Chain,2,2,2,3,1,1,0.167,2,172.525,High
+AI0257,Supply Chain Risk Prediction,Logistics,Supply Chain,2,1,2,1,3,2,0.075,1,150.625,Medium
+AI0258,Loan Approval AI,Banking,Credit,3,1,1,1,3,3,0.085,3,191.375,High
+AI0259,Customer Support Chatbot,Retail,Customer Service,2,3,2,3,2,3,0.119,1,208.925,High
+AI0260,Supply Chain Risk Prediction,Logistics,Supply Chain,2,3,1,2,2,2,0.129,2,179.675,High
+AI0261,Credit Risk Assessment,Banking,Risk,2,2,2,3,3,2,0.025,1,186.875,High
+AI0262,Fraud Detection AI,Banking,Fraud,2,3,2,3,2,2,0.195,2,209.625,High
+AI0263,Loan Approval AI,Banking,Credit,1,1,2,1,3,2,0.036,2,142.7,Medium
+AI0264,Invoice Processing AI,Finance,Finance Operations,1,3,3,1,2,1,0.137,2,155.275,Medium
+AI0265,Employee Performance Prediction,Human Resources,Performance,1,2,1,3,1,1,0.188,2,149.1,Medium
+AI0266,Insurance Claim Assessment,Insurance,Claims,1,3,2,2,3,3,0.083,1,186.225,High
+AI0267,Legal Document Analysis AI,Legal,Legal Operations,2,2,1,2,2,3,0.153,3,196.475,High
+AI0268,Quality Inspection AI,Manufacturing,Quality Control,1,3,3,1,3,1,0.033,2,157.475,Medium
+AI0269,Invoice Processing AI,Finance,Finance Operations,3,3,1,3,1,1,0.127,1,174.525,High
+AI0270,Supply Chain Risk Prediction,Logistics,Supply Chain,2,3,2,3,1,3,0.095,1,197.125,High
+AI0271,Fraud Detection AI,Banking,Fraud,3,3,2,2,3,1,0.084,1,186.3,High
+AI0272,Loan Approval AI,Banking,Credit,2,3,1,2,2,3,0.121,3,204.075,High
+AI0273,Product Recommendation AI,E-commerce,Marketing,1,1,1,1,2,2,0.13,1,119.75,Medium
+AI0274,Marketing Personalization AI,E-commerce,Marketing,1,1,1,3,1,3,0.096,3,172.2,High
+AI0275,Customer Support Chatbot,Retail,Customer Service,2,2,3,1,1,1,0.097,1,137.275,Medium
+AI0276,Credit Risk Assessment,Banking,Risk,1,1,1,1,1,1,0.141,1,95.575,Low
+AI0277,AI Resume Screening,Human Resources,Recruitment,2,2,2,1,3,3,0.135,3,200.125,High
+AI0278,Employee Performance Prediction,Human Resources,Performance,1,3,1,3,1,3,0.03,1,167.25,High
+AI0279,Medical Diagnosis AI,Healthcare,Diagnosis,1,1,3,3,1,1,0.162,3,167.15,High
+AI0280,Pricing Optimization AI,Retail,Pricing,1,1,2,3,2,3,0.194,3,199.55,High
+AI0281,Product Recommendation AI,E-commerce,Marketing,3,3,3,2,1,1,0.135,2,190.125,High
+AI0282,Insurance Claim Assessment,Insurance,Claims,3,1,3,1,1,2,0.137,3,180.275,High
+AI0283,Pricing Optimization AI,Retail,Pricing,2,2,1,1,1,2,0.101,3,152.575,Medium
+AI0284,Marketing Personalization AI,E-commerce,Marketing,2,1,3,2,2,1,0.121,3,174.075,High
+AI0285,Patient Risk Prediction,Healthcare,Patient Care,2,3,2,3,1,2,0.053,1,178.975,High
+AI0286,Employee Performance Prediction,Human Resources,Performance,3,2,2,1,2,2,0.062,1,164.65,Medium
+AI0287,Demand Forecasting AI,Retail,Supply Chain,3,2,1,1,3,2,0.165,3,192.375,High
+AI0288,Product Recommendation AI,E-commerce,Marketing,1,1,3,2,1,1,0.052,2,133.9,Medium
+AI0289,Employee Performance Prediction,Human Resources,Performance,2,2,3,3,3,2,0.153,1,206.475,High
+AI0290,Cyber Threat Detection AI,Technology,Cybersecurity,2,2,1,1,3,3,0.193,3,194.475,High
+AI0291,Legal Document Analysis AI,Legal,Legal Operations,3,1,2,3,1,1,0.151,3,186.325,High
+AI0292,Legal Document Analysis AI,Legal,Legal Operations,3,1,2,3,3,1,0.155,3,206.625,High
+AI0293,Employee Performance Prediction,Human Resources,Performance,2,2,1,1,3,1,0.063,3,154.725,Medium
+AI0294,Credit Risk Assessment,Banking,Risk,2,3,1,2,1,2,0.127,3,179.525,High
+AI0295,Loan Approval AI,Banking,Credit,1,1,1,2,2,2,0.17,1,137.75,Medium
+AI0296,Invoice Processing AI,Finance,Finance Operations,2,1,2,1,1,3,0.154,3,171.55,High
+AI0297,Insurance Claim Assessment,Insurance,Claims,3,1,2,3,1,2,0.178,3,203.35,High
+AI0298,Medical Diagnosis AI,Healthcare,Diagnosis,2,1,2,3,1,2,0.128,1,164.6,Medium
+AI0299,Cyber Threat Detection AI,Technology,Cybersecurity,1,3,3,1,2,3,0.022,2,176.65,High
+AI0300,Supply Chain Risk Prediction,Logistics,Supply Chain,2,2,2,2,3,3,0.014,3,206.05,High
